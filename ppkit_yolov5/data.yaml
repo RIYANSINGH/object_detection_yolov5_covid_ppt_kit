@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/sat/images/train
+val: /content/drive/MyDrive/sat/images/val
+test: ../test/images
+
+nc: 5
+names: ['Coverall', 'Face_Shield', 'Gloves', 'Goggles', 'Mask']

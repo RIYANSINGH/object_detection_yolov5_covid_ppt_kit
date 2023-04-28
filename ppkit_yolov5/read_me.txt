@@ -1,0 +1,1 @@
+This is the problem no 1 , i used the yolov5 on the given dataset and got the new weights in weights folder inside,the i got some performance parameterc which are inside detect folder
